@@ -1,0 +1,23 @@
+{
+  "name": "sirwajahatassignment",
+  "version": "1.0.0",
+  "description": "first assignment mysql nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/numaanjaved/sirWajahatAssignment.git"
+  },
+  "author": "Numaan Javed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/numaanjaved/sirWajahatAssignment/issues"
+  },
+  "homepage": "https://github.com/numaanjaved/sirWajahatAssignment#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
